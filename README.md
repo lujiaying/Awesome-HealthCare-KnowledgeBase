@@ -26,4 +26,8 @@ A curated list of awesome healthcare taxonomies and knowledge graphs.
 | -- | -- | -- |
 | LM-Bio-KGC | [Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study (AKBC'21)](https://arxiv.org/pdf/2106.09700.pdf) [[Code]](https://github.com/rahuln/lm-bio-kgc)| repoDB, MSI, Hetionet |
 
-## KB Alignment 
+## KB Fusion: including ontology matching, entity alignment and knowledge fusion.
+
+### Entity Alignment
+
+**Problem Definition**: Given two KGs $\mathcal{G}_1=\\{ \mathcal{E}_1, \mathcal{R}_1, \mathcal{TP}_1 \\}$ and $\mathcal{G}_2= \\{ \mathcal{E}_2, \mathcal{R}_2, \mathcal{TP}_2 \\}$, where $\mathcal{E}$ and $\mathcal{R}$ denote the sets of entities and relations, $\mathcal{TP} \subseteq \mathcal{E}\times \mathcal{R}\times \mathcal{E}$ is the set of relational triplets. *Entity aligment* aims to identify entities in $\mathcal{G}_1$ and $\mathcal{G}_2$ that refer to the same real-world object, i.e., seeking a set of alignment $\mathcal{A}=\\{(e_1,e_2)\in \mathcal{E}_1\times\mathcal{E}_2 | e_1 \equiv  e_2 \\}$. A small set of seed entity algiment $\mathcal{A}_s \subset \mathcal{A}$ is usually provided as anchors (training data) beforehand to help align the remaining entities.
