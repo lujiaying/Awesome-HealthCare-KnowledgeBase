@@ -7,6 +7,7 @@ A curated list of awesome healthcare taxonomies and knowledge graphs.
 | Name | Paper | Misc. |
 | -- | -- | -- |
 | Disease Ontology | [The Human Disease Ontology 2022 update (Nucleic Acids Research'22)](https://pubmed.ncbi.nlm.nih.gov/34755882/) [[Website]](https://disease-ontology.org/) |  10,862 disease terms, 22,137 new SubClassOf Axioms|
+| Mondo Disease Ontology | [[Website]](https://www.ebi.ac.uk/ols/ontologies/mondo) | A semi-automatically constructed ontology that merges in multiple disease resources to yield a coherent merged ontology. |
 | MeSH Ontology | [[Website]](https://www.nlm.nih.gov/mesh/meshhome.html) | MeSH includes the subject headings appearing in MEDLINE/PubMed, the NLM Catalog, and other NLM databases. |
 | UMLS Semantic Network | [[Website]](https://uts.nlm.nih.gov/uts/umls/semantic-network/T071) | Broad categories (semantic types) and their relationships (semantic relations) for [UMLS Metathesaurus](https://uts.nlm.nih.gov/uts/umls/home) |
 | Gene Ontology | [[Citation Policy]](http://geneontology.org/docs/go-citation-policy/) [[Website]](http://geneontology.org/) | three ontologies: Molecular Function, Cellular Component, Biological Process |
