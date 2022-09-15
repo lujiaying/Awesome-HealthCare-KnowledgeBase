@@ -5,6 +5,8 @@ We know we may have missed important softwares or literatures, please feel free 
 
 ## HealthCare Taxonomies
 
+What are the differences between taxonomy and ontology? See discussion [🔗 here>>](taxonomy_and_ontology.md).
+
 | Name | Paper | Misc. |
 | -- | -- | -- |
 | Disease Ontology | [The Human Disease Ontology 2022 update (Nucleic Acids Research'22)](https://pubmed.ncbi.nlm.nih.gov/34755882/) [[Website]](https://disease-ontology.org/) |  10,862 disease terms, 22,137 new SubClassOf Axioms|
