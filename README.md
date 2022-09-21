@@ -14,7 +14,8 @@ What are the differences between taxonomy and ontology? See discussion [🔗 her
 | MeSH Ontology | [[Website]](https://www.nlm.nih.gov/mesh/meshhome.html) | MeSH includes the subject headings appearing in MEDLINE/PubMed, the NLM Catalog, and other NLM databases. |
 | UMLS Semantic Network | [[Website]](https://uts.nlm.nih.gov/uts/umls/semantic-network/T071) | Broad categories (semantic types) and their relationships (semantic relations) for [UMLS Metathesaurus](https://uts.nlm.nih.gov/uts/umls/home) |
 | Gene Ontology | [[Citation Policy]](http://geneontology.org/docs/go-citation-policy/) [[Website]](http://geneontology.org/) | three ontologies: Molecular Function, Cellular Component, Biological Process |
- 
+
+
 ## HealthCare Knowledge Graphs
 
 | Name | Paper | Domain | Scale | Data Sources |
@@ -24,7 +25,9 @@ What are the differences between taxonomy and ontology? See discussion [🔗 her
 | MSI | [Identification of disease treatment mechanisms through the multiscale interactome (Nature Communications'21)](https://www.nature.com/articles/s41467-021-21770-8) [[Code]](https://github.com/snap-stanford/multiscale-interactome)| Drugs, Proteins, Diseases, Biological Functions, Gene | 1,661 drugs, 840 disease, 17,660 proteins, 9,798 biological functions|
 | Hetionet | [Heterogeneous Network Edge Prediction: A Data Integration Approach to Prioritize Disease-Associated Genes (PLOS Computational Biology'15)](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004259) [[Website]](https://het.io/)| [11 types](https://git.dhimmel.com/rephetio-manuscript/#tbl:metanodes) of nodes, [24 types](https://git.dhimmel.com/rephetio-manuscript/#tbl:metaedges) of edges |  combines information from 29 public databases. 47,031 nodes (11 types) and 2,250,197 relationships (24 types) | Entrez Gene, DrugBank, Uberon, Disease Ontology, MeSH ontology, SIDER, UMLS, Gene Ontology, WikiPathways, Reactome, Pathway Interaction Database, DrugCentral |
 | iBKH | [iBKH: The integrative Biomedical Knowledge Hub (medRxiv'22)](https://www.medrxiv.org/content/10.1101/2021.03.12.21253461v3) [[Code]](https://github.com/wcm-wanglab/iBKH) | Anatomy, Disease, Drug, Gene, Molecule, Symptom, Dietary Supplement Ingredient/Product, Therapeutic Class, Pathway, Side-Effect | 2M entities, 48M relations | Integrate [18 public data sources](https://github.com/wcm-wanglab/iBKH/blob/3bae2aa50beb111a0e07a30cdbfc7a23a45d3e19/Source%20Information/README.md) |
-| DRKG | [[Blog article'22]](https://www.dgl.ai/news/2020/06/09/covid.html) [[Code]](https://github.com/gnn4dr/DRKG) | genes, compounds, diseases, biological processes, side effects and symptoms. | 97,238 entities belonging to 13 entity-types; and 5,874,261 triplets belonging to 107 edge-types. | DrugBank, Hetionet, GNBR, String, IntAct and DGIdb, and Covid19 literatures. |
+| DRKG | [[Blog article'22]](https://www.dgl.ai/news/2020/06/09/covid.html) [[Code]](https://github.com/gnn4dr/DRKG) | genes, compounds, diseases, biological processes, side effects and symptoms focusing on drug repurposing for COVID-19. | 97,238 entities belonging to 13 entity-types; and 5,874,261 triplets belonging to 107 edge-types. | DrugBank, Hetionet, GNBR, String, IntAct and DGIdb, and Covid19 literatures. |
+| COVID-KG | [COVID-19 Literature Knowledge Graph Construction and Drug Repurposing Report Generation (NAACL'21)](https://aclanthology.org/2021.naacl-demos.8.pdf) [[Website]](http://blender.cs.illinois.edu/covid19/)| Gene, Disease, Chemical, Organism focusing on COVID-19 | 50,752 Gene nodes, 10,781 Disease nodes, 5,738 Chemical nodes, and 535 Organism nodes; 133 relation types| COVID scientific literature, and existing [CTD](http://ctdbase.org/), MESH |
+| KGHC | [KGHC: a knowledge graph for hepatocellular carcinoma (BMC Medical Informatics and Decision Making'20)](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-020-1112-5)| focusing on hepatocellular carcinoma | |
 
 ## KB Construction 
 
