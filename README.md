@@ -3,9 +3,9 @@ A curated list of awesome healthcare taxonomies and knowledge graphs.
 We know we may have missed important softwares or literatures, please feel free to create an issue for any suggesstions.
 
 
-## HealthCare Taxonomies
+## HealthCare Ontology/Taxonomies
 
-What are the differences between taxonomy and ontology? See discussion [🔗 here>>](taxonomy_and_ontology.md).
+What are the differences between ontology and taxonomy? See discussion [🔗 here>>](taxonomy_and_ontology.md).
 
 | Name | Paper | Misc. |
 | -- | -- | -- |
