@@ -9,11 +9,11 @@ What are the differences between ontology and taxonomy? See discussion [🔗 her
 
 | Name | Paper | Misc. |
 | -- | -- | -- |
-| Disease Ontology | [The Human Disease Ontology 2022 update (Nucleic Acids Research'22)](https://pubmed.ncbi.nlm.nih.gov/34755882/) [[Website]](https://disease-ontology.org/) |  10,862 disease terms, 22,137 new SubClassOf Axioms|
-| Mondo Disease Ontology | [[Website]](https://www.ebi.ac.uk/ols/ontologies/mondo) | A semi-automatically constructed ontology that merges in multiple disease resources to yield a coherent merged ontology. |
+| Mondo Disease Ontology | [[Website]](https://www.ebi.ac.uk/ols/ontologies/mondo) | A **semi-automatically** constructed ontology that merges in multiple disease resources to yield a coherent merged ontology. |
 | MeSH Ontology | [[Website]](https://www.nlm.nih.gov/mesh/meshhome.html) | MeSH includes the subject headings appearing in MEDLINE/PubMed, the NLM Catalog, and other NLM databases. |
 | UMLS Semantic Network | [[Website]](https://uts.nlm.nih.gov/uts/umls/semantic-network/T071) | Broad categories (semantic types) and their relationships (semantic relations) for [UMLS Metathesaurus](https://uts.nlm.nih.gov/uts/umls/home) |
-| SNOMED | 
+| SNOMED CT| [[Website]](https://www.nlm.nih.gov/healthit/snomedct/index.html) |  A **multilingual** hierarchical organized medical terms providing codes, terms, synonyms and definitions used in clinical documentation and reporting. |
+| Disease Ontology | [The Human Disease Ontology 2022 update (Nucleic Acids Research'22)](https://pubmed.ncbi.nlm.nih.gov/34755882/) [[Website]](https://disease-ontology.org/) |  10,862 disease terms, 22,137 new SubClassOf Axioms |
 | Gene Ontology | [[Citation Policy]](http://geneontology.org/docs/go-citation-policy/) [[Website]](http://geneontology.org/) | three ontologies: Molecular Function, Cellular Component, Biological Process |
 | Cell Taxonomy | [Cell Taxonomy: a curated repository of cell types with multifaceted characterization (Nucleic Acids Research'22)](https://academic.oup.com/nar/advance-article/doi/10.1093/nar/gkac816/6717827) [[Website]](https://ngdc.cncb.ac.cn/celltaxonomy/) |  3,143 cell types, 26,613 associated cell markers in 257 conditions and 387 tissues across 34 species.|
 
