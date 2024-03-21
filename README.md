@@ -38,10 +38,12 @@ What are the differences between ontology and taxonomy? See discussion [🔗 her
 | DrugCentral | [DrugCentral: online drug compendium (Nucleic Acids Research'16)](https://academic.oup.com/nar/article/45/D1/D932/2333938) [[Website]](https://academic.oup.com/nar/article/45/D1/D932/2333938) | Drug, Target, Disease, Pharmacologic action, Active Ingredients| 112,359 FDA drug labels, 4,927 Active Ingredients, 137,693 Pharmaceutical formulations | N/A|
 
 ## KB Construction 
+Interested in the interaction between Large Language Models and KB? See this amazing resource [🔗 here>>](https://github.com/RManLuo/Awesome-LLM-KG).
 
-| Name | Paper | Used KB |
+| Name | Paper | Used Resources |
 | -- | -- | -- |
 | LM-Bio-KGC | [Scientific Language Models for Biomedical Knowledge Base Completion: An Empirical Study (AKBC'21)](https://arxiv.org/pdf/2106.09700.pdf) [[Code]](https://github.com/rahuln/lm-bio-kgc)| repoDB, MSI, Hetionet |
+| AutoRD | [AutoRD: An Automatic and End-to-End System for Rare Disease Knowledge Graph Construction Based on Ontologies-enhanced Large Language Models (ArXiv'24)](https://arxiv.org/pdf/2403.00953.pdf) [[Code]](https://github.com/windszzlang/AutoRD) | RareDis-v1 |
 
 ## KB Fusion: including ontology matching, entity alignment.
 
