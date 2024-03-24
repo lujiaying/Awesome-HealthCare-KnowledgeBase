@@ -36,7 +36,10 @@ What are the differences between ontology and taxonomy? See discussion [🔗 her
 | repoDB | [A Standard Database for Drug Repositioning (Scientific Data'17)](https://www.nature.com/articles/sdata201729) [[Website]](http://apps.chiragjpgroup.org/repoDB/) | Drug, Disease | 1,571 drugs, 2,051 diseases | N/A |
 | DrugBank | [DrugBank: a comprehensive resource for in silico drug discovery and exploration (Nucleic Acids Research'06)](https://academic.oup.com/nar/article/34/suppl_1/D668/1132926) [[Website]](https://go.drugbank.com/) | Drug, and drug target (i.e. sequence, structure, pathway)| 15,686 drug, 5,296 non-redundant protein sequences | N/A |
 | DrugCentral | [DrugCentral: online drug compendium (Nucleic Acids Research'16)](https://academic.oup.com/nar/article/45/D1/D932/2333938) [[Website]](https://academic.oup.com/nar/article/45/D1/D932/2333938) | Drug, Target, Disease, Pharmacologic action, Active Ingredients| 112,359 FDA drug labels, 4,927 Active Ingredients, 137,693 Pharmaceutical formulations | N/A|
-
+| **Protein-specific** KGs |
+| The Human Protein Atlas | [[Website]](https://www.proteinatlas.org/) | Proteins, Genes, Tissues, Cell, Pathology, Disease | 27520 antibodies targeting, 17288 unique proteins| N/A|
+| Proteinarium | [Proteinarium: Multi-sample protein-protein interaction analysis and visualization tool(Genomics'20)](https://www.sciencedirect.com/science/article/pii/S0888754320303050) [[Website]](https://proteinarium.brown.edu/) | multi-sample protein-protein interaction | TB Release | |
+ 
 ## KB Construction 
 Interested in the interaction between Large Language Models and KB? See this amazing resource [🔗 here>>](https://github.com/RManLuo/Awesome-LLM-KG).
 
